@@ -1,0 +1,75 @@
+S
+GET STONE
+N
+E
+THROW STONE
+OPEN DOOR
+E 
+E
+E
+S
+GET BOWL
+N
+W
+S
+GIVE BOWL
+N
+W
+S
+S
+W
+GET SUIT
+WEAR SUIT
+E
+S
+S
+REMOVE SUIT (ignore)
+DROP SUIT (ignore)
+S
+W
+GET ROPE
+S
+GET ARROW
+E
+S
+E
+GET BOW
+W
+N
+E
+E
+N
+E
+E
+S
+E
+S
+S
+FIRE ARROW
+W
+GET HOOK
+S
+TIE HOOK
+THROW ROPE
+JUMP
+S
+E
+N
+GET AXE
+S
+E
+E
+S
+THROW AXE
+E
+N
+E
+MOVE LEAVES
+LOOK
+GET ORE
+W
+ENTER BOAT
+ROW BOAT
+
+That's it, congratulations. Fortunately the townsfolk are sympathetic and help you to safety.
+ 
